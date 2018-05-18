@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "TangQiao"
+  s.name         = "Tang-Qiao"
   s.version      = "0.0.1"
   s.summary      = "唐巧开发进阶"
   s.description  = <<-DESC
