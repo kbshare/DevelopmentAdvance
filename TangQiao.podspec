@@ -13,6 +13,6 @@ DevelopmentAdvance from TangQiao
   s.source       = { :git => "https://github.com/kbshare/DevelopmentAdvance.git", :tag => s.version.to_s }
   s.ios.deployment_target = '6.0'
   s.tvos.deployment_target = '9.0'
-  s.source_files = '*.{h,m}'
+  s.source_files = '*.pdf'
   s.requires_arc = true
 end
